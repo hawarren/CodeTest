@@ -1,0 +1,16 @@
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest.deps.json
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest.runtimeconfig.json
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest.runtimeconfig.dev.json
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest.dll
+/home/hanifw/CodeTest/bin/Debug/net5.0/ref/CodeTest.dll
+/home/hanifw/CodeTest/bin/Debug/net5.0/CodeTest.pdb
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.csprojAssemblyReference.cache
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.AssemblyInfoInputs.cache
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.AssemblyInfo.cs
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.csproj.CoreCompileInputs.cache
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.dll
+/home/hanifw/CodeTest/obj/Debug/net5.0/ref/CodeTest.dll
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.pdb
+/home/hanifw/CodeTest/obj/Debug/net5.0/CodeTest.genruntimeconfig.cache
